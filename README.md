@@ -1,7 +1,7 @@
 # OMSI2-AIlists
 Some AIlist files for the simulation game "OMSI 2"
 
-## How to find the AIlist you are searchin for
+## How to find the AIlist you are searching for
 On this repositiory, you will find some folder, named after the map the AIlists are made for, and then a subfolder that either says "freeware" or "payware".
 - Freeware: all busses are free
 - Payware: some busses are paid
